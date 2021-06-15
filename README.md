@@ -1,7 +1,7 @@
 # TIC-TAC-TOE-game with GUI using python
 This game is very popular and is quite simple in itself. It is a two-player game. In this game, there is a board with 3×3 squares.
 
-![image](https://user-images.githubusercontent.com/81960341/122060328-1cea2080-ce0b-11eb-9583-c581cef088d2.png)
+![ Alt text](name-of-gif-file. gif) / ! [](tic-tac-toe.gif)
 
 In this game a player can choose between two symbols with his opponent, the usual games use “X” and “O”. If the first player chooses “X”, then the second player must play with “O” and vice versa.
 
